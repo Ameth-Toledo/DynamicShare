@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { LucideAngularModule, Store as StoreIcon } from 'lucide-angular';
 import { HeaderComponent } from "../../../share/components/header/header.component";
 import { CardShopComponent } from "../../components/card-shop/card-shop.component";
 import { ShopsService, Store } from '../../../core/services/shops.service';
@@ -7,7 +8,7 @@ import { ShopsService, Store } from '../../../core/services/shops.service';
 @Component({
   selector: 'app-shops',
   standalone: true,
-  imports: [CommonModule, HeaderComponent, CardShopComponent],
+  imports: [CommonModule, LucideAngularModule, HeaderComponent, CardShopComponent],
   templateUrl: './shops.component.html',
   styleUrl: './shops.component.css'
 })

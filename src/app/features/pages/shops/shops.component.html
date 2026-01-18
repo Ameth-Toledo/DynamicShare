@@ -1,12 +1,17 @@
 <app-header></app-header>
 <div class="container mx-auto px-2 py-4">
+  <div class="flex items-center gap-2 mb-4 px-2">
+    <svg class="w-6 h-6 md:w-8 md:h-8 text-black" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M3 9h18v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9Z"></path>
+      <path d="m3 9 2.45-4.9A2 2 0 0 1 7.24 3h9.52a2 2 0 0 1 1.8 1.1L21 9"></path>
+      <path d="M12 3v6"></path>
+    </svg>
+    <h1 class="text-xl md:text-3xl font-bold text-black">Tiendas</h1>
+  </div>
+
   <div class="grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4 md:gap-6">
-    <app-card-shop 
-      *ngFor="let store of stores"
-      [imageSrc]="store.image"
-      [manager]="store.manager"
-      [address]="store.address"
-      [id]="store.id">
+    <app-card-shop *ngFor="let store of stores" [imageSrc]="store.image" [manager]="store.manager"
+      [address]="store.address" [id]="store.id">
     </app-card-shop>
   </div>
 </div>
