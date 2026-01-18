@@ -3,76 +3,228 @@
         {
             "id": 1,
             "manager": "Zita Edith",
-            "address": "Xiconténcatl num 16A, Colonia centro.. Xalapa Veracruz",
-            "image": "assets/",
+            "address": "Xicoténcatl num 16A, Colonia centro.. Xalapa Veracruz",
+            "phone": "2282863167",
+            "image": "assets/images/image13.png",
             "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.0242971635837!2d-96.92897923037414!3d19.53744059886028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2e0428bd54dd%3A0x9644180652a1e851!2sXicot%C3%A9ncatl%2018%2C%20Zona%20Centro%2C%20Centro%2C%2091000%20Xalapa-Enr%C3%ADquez%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1768170859524!5m2!1ses-419!2smx",
-            "shareUrl": "https://maps.app.goo.gl/fJGz44bRksYgAhFC7" 
-        },  
+            "shareUrl": "https://maps.app.goo.gl/fJGz44bRksYgAhFC7"
+        },
         {
             "id": 2,
-            "manager": "Flor Tapia",
-            "address": "Margarita 37 local E Rosa y Lirio y 531114 Tizayuca Hidalgo",
-            "image": "assets/",
-            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30026.058936215217!2d-99.01982582568358!3d19.829060299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d191fa108d15cf%3A0x6ce6d27a5c375651!2sDYNAMIC%20SHARE!5e0!3m2!1ses-419!2smx!4v1768171188799!5m2!1ses-419!2smx",
-            "shareUrl": "https://maps.app.goo.gl/33rJAZpQhxV9vPgf9"
+            "manager": "Leticia Hernández",
+            "address": "Calle Golfo # 29, Colonia Atlanta 1er. Sección, Estado de Mexico",
+            "phone": "5619699741",
+            "image": "assets/images/image15.png"
         },
         {
             "id": 3,
-            "manager": "Leticia Hernández",
-            "address": "Calle golfo #29 Colonia Atlanta 1er. Seccion Estado de Mexico",
-            "image": "assets/",
-            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.570606138894!2d-99.21498762402172!3d19.64564708167977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d21e409953624b%3A0xdd3b6f303646d571!2sC.%20Golfo%2029%2C%20Atlanta%2C%2054740%20Cuautitl%C3%A1n%20Izcalli%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1768171488520!5m2!1ses-419!2smx",
-            "shareUrl": "https://maps.app.goo.gl/fdmAXdwfzL2yrhzeA"
+            "manager": "Angel Gamaliel Ávalos Santamaría",
+            "address": "Mar De Las Lluvias, Av Estanislao Ramírez Ruiz, Selene 1ra Secc, Tláhuac, C.P 13420 Ciudad de México L19 MZ8",
+            "phone": "7353974289",
+            "image": "assets/images/image14.png"
         },
         {
             "id": 4,
-            "manager": "Domingo",
-            "address": "Avenidad Carretera Federal Alpuyeca, Colonia El florido Alpuyeca, Mazatepec, Morelos, Mexico (100 metros antes de Estafeta)",
-            "image": "assets/",
-            "googleMapsUrl": "",
-            "shareUrl": ""
+            "manager": "Jessica Mancilla Martinez",
+            "address": "Manuel Alemán #3, Colonia La Conchita, Zapotitlán Tláhuac, C.P 13360",
+            "phone": "5620103512",
+            "image": "assets/images/image17.png"
         },
         {
             "id": 5,
-            "manager": "Miri Cova",
-            "address": "Torre de Alba Mz 181 C, Lote2, Colonia Santa María de Guadalupe la torres 1ra. Seccion C.P 54743, Cuatlitán Izcalli, Estado de Mexico",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Yolis",
+            "address": "Calle Amatista 34C, Fraccionamiento Bugambilias. Junto al Fasti, en la parte superior de la Farmacia Similares",
+            "phone": "2282320921",
+            "image": "assets/images/image16.png"
         },
         {
             "id": 6,
-            "manager": "Verónica Pérez",
-            "address": "Calle Sur, La Paz Singilucán, Los Altos, Estado de Hidalgo",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Héctor Sandria",
+            "address": "Polo Norte 3062 Rincones de Salvarcar, Ciudad Juárez Chihuahua, C.P. 32575",
+            "phone": "6563877881",
+            "image": "assets/images/image19.png"
         },
         {
             "id": 7,
-            "manager": "Javier Zavaleta Rivera",
-            "address": "Calle Colon No. 33 Colonia centro C.P. 91500 Coatepec Veracruz",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Manuel Camor",
+            "address": "Centro comercial Santa Úrsula Texcoco Local A5, Calle Emiliano Zapata Número 1 Colonia Santa Úrsula Texcoco Estado de México",
+            "phone": "5521419553",
+            "image": "assets/images/image18.png"
         },
         {
             "id": 8,
-            "manager": "Manuel Camor",
-            "address": "Centro comercial Santa Ursula Texcoco Local A-5. Ubicado en: Calle Emiliano Zapata. No. 1, Colonia Santa Ursula. Texcoco Estado de Mexico C.P. 56150",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Leyber Daniel Vargas Díaz",
+            "address": "San Lucas, Chiapas",
+            "phone": "529671375601",
+            "image": "assets/images/image21.png"
         },
         {
             "id": 9,
-            "manager": "Angel Gamaliel Ávalos Santamaria",
-            "address": "Mar De Las Lluvias, Av Estanislao Ramírez Ruiz, Selene 1ra Seccion, Tláhuac, C.P 13420 Ciudad de Mexico L.19 MZ.8",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Verónica Pérez",
+            "address": "Calle Sur, La Paz Singilucán, Los Altos, Estado de Hidalgo",
+            "phone": "7751691024",
+            "image": "assets/images/image20.png"
         },
         {
             "id": 10,
-            "manager": "Ana Lilia Ruiz",
-            "address": "Prolongación Av. De la Flor, Esquina Calle 2 Auris 2 Chicoloapan de Juarez, C.P. 56376",
-            "image": "assets/",
-            "googleMapsUrl": ""
+            "manager": "Meny",
+            "address": "Coahuila Torreón local 22, Av. Escuadrón 201",
+            "phone": "8712267727",
+            "image": "assets/images/image24.png"
+        },
+        {
+            "id": 11,
+            "manager": "Javier",
+            "address": "Calle Colón 33, Coatepec, Veracruz",
+            "phone": "2281062882",
+            "image": "assets/images/image22.png"
+        },
+        {
+            "id": 12,
+            "manager": "Raúl Antonio Ortiz Hernández",
+            "address": "Aquiles Serdán 557 Colonia Miguel Alemán, Culiacán, Sinaloa",
+            "phone": "6673021500",
+            "image": "assets/images/image23.png"
+        },
+        {
+            "id": 13,
+            "manager": "Sindy",
+            "address": "Calle Emiliano Zapata número 58, enfrente del restaurante la Bamba Mariscos en Ciudad José Cardel",
+            "phone": "2293300092",
+            "image": "assets/images/image25.png"
+        },
+        {
+            "id": 14,
+            "manager": "Martín",
+            "address": "Av. Rodolfo Gaza Cantú # 598, Local E, Colonia Luis Donaldo Colosio Murrieta, Reynosa, Tamaulipas, C.P. 88793",
+            "phone": "8995238828",
+            "image": "assets/images/image26.png"
+        },
+        {
+            "id": 15,
+            "manager": "Flor",
+            "address": "Calle Rosa esquina Margarita, 37 E Colonia Nuevo Tizayuca, Tizayuca Hidalgo",
+            "phone": "5632720282",
+            "image": "assets/images/image27.png"
+        },
+        {
+            "id": 16,
+            "manager": "Jesús",
+            "address": "Bulevard Euquerio Guerrero esquina con calle Tulipán No. Ext. 4 Mz 08 Arroyo Verde, Guanajuato, Guanajuato",
+            "phone": "524731814468",
+            "image": "assets/images/image28.png"
+        },
+        {
+            "id": 17,
+            "manager": "Verónica",
+            "address": "C. 44 Nte, Diez de Mayo, 72330 Heroica Puebla de Zaragoza, Pue. (Junto a la zona de juegos)",
+            "phone": "2225043221",
+            "image": "assets/images/image29.png"
+        },
+        {
+            "id": 18,
+            "manager": "Lilia",
+            "address": "Av. de los Atletas (o Venustiano Carranza) #155, Col. Felipe Carrillo Puerto",
+            "phone": "2281106108",
+            "image": "assets/images/image30.png"
+        },
+        {
+            "id": 19,
+            "manager": "Claudia",
+            "address": "Avenida General González Montecillo, Texcoco Montecillos, Estado de México, C.P. 56264",
+            "phone": "5649984869",
+            "image": "assets/images/image31.png"
+        },
+        {
+            "id": 20,
+            "manager": "Octavio Nájera",
+            "address": "Av. Orión Sur No. 709, Colonia Fracc. Villa Floresta, San Andrés Cholula Puebla, Plaza Street Mall, C.P. 72825",
+            "phone": "2225605511",
+            "image": "assets/images/image32.png"
+        },
+        {
+            "id": 21,
+            "manager": "Ana",
+            "address": "Prolongación de la Flor esquina con calle 2 Colonia Auris 2 Chicoloapan México",
+            "phone": "5524905733",
+            "image": "assets/images/image2.png"
+        },
+        {
+            "id": 22,
+            "manager": "Rous",
+            "address": "Transmisiones militares #35 piso 2, Fraccionamiento residencial lomas de Sotelo cp 53390, Naucalpan de Juárez Estado de México",
+            "phone": "5545499850",
+            "image": "assets/images/image4.png"
+        },
+        {
+            "id": 23,
+            "manager": "Ilse",
+            "address": "Independencia 209, colonia centro, San Rafael, Veracruz",
+            "phone": "2321148641",
+            "image": "assets/images/image5.png"
+        },
+        {
+            "id": 24,
+            "manager": "Miri Cova",
+            "address": "Torre del Alba Mz 181 C Lote 2, Col. Santa María de Guadalupe las torres 1ra Sección, C.P. 54743, Cuautitlán Izcalli, Estado de México",
+            "phone": "5554029844",
+            "image": "assets/images/image6.png"
+        },
+        {
+            "id": 25,
+            "manager": "Melita",
+            "address": "Calle nogal 29 col las tijeras san Miguel Coatlinchan Texcoco Estado de México c.p. 56250",
+            "phone": "5510956647",
+            "image": "assets/images/image7.png"
+        },
+        {
+            "id": 26,
+            "manager": "Guillermo Martínez Escamilla",
+            "address": "Dr. J. G. Parres 57-30, Emiliano Zapata, 62744 Cuautla, Mor., México",
+            "phone": "5510956647",
+            "image": "assets/images/image8.png"
+        },
+        {
+            "id": 27,
+            "manager": "Delia",
+            "address": "Avenida alpuyeca grutas, colonia la campesina, miacatlan morelos, Cuernavaca, Morelos, C.P. 62600",
+            "phone": "7772221409",
+            "image": "assets/images/image9.png"
+        },
+        {
+            "id": 28,
+            "manager": "Javier Zavaleta Rivera",
+            "address": "Mártires del 28 de Agosto No. 289",
+            "phone": "2281062882",
+            "image": "assets/images/image10.png"
+        },
+        {
+            "id": 29,
+            "manager": "Carlos Fabricio Cortois Gómez",
+            "address": "Av. Belisario Domínguez entre calle Morelos y calle Aldama, Chiapilla, Chiapas",
+            "phone": "9921199034",
+            "image": "assets/images/image11.png"
+        },
+        {
+            "id": 30,
+            "manager": "Domingo Flores",
+            "address": "Carretera alpuyeca-grutas, colonia El Florido, mazatepec, Morelos (cerca de los pollos el florido a 50 mtr)",
+            "phone": "7772141763",
+            "image": "assets/images/image12.png"
+        },
+        {
+            "id": 31,
+            "manager": "Cesar",
+            "address": "Av. Benito Juárez n-51, Entre Francisco y madero y 16 de septiembre, San Miguel tocuila cp 56208, Texcoco de mora",
+            "phone": "5584730610",
+            "image": "assets/images/image3.png"
+        },
+        {
+            "id": 32,
+            "manager": "Susan",
+            "address": "Camino Viejo, Col. Lomas del Potrero, Yautepec, Morelos (Cerca de la Paletería Michoacana a 50 mt)",
+            "phone": "7353460409",
+            "image": "assets/images/image1.png"
         }
     ]
 }
