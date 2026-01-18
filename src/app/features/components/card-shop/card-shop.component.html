@@ -1,1 +1,18 @@
-<p>card-shop works!</p>
+<div (click)="sendToDetail()" class="relative w-full h-64 shadow-lg rounded-lg bg-white cursor-pointer hover:shadow-xl transition-shadow duration-300">
+  <div class="relative h-36 rounded-t-lg overflow-hidden">
+    <img [src]="imageSrc" alt="" class="w-full h-full object-cover">
+  </div>
+
+  <img src="assets/logo.webp" alt="" class="absolute top-28 left-2 w-12 h-12 bg-white rounded-full p-1 shadow-md z-10">
+  
+  <div class="absolute top-[130px] left-0 w-full py-1.5 px-2 flex items-center" style="background: linear-gradient(135deg, #4a1942 0%, #1a4d3d 100%);">
+    <h2 class="text-sm font-bold text-white ml-12 truncate">DynamicShare</h2>
+  </div>
+  
+  <div class="px-3 pt-10">
+    <span class="block text-sm font-bold uppercase text-left mb-1 truncate">{{ manager }}</span>
+    <div class="text-xs text-gray-600 font-light leading-4 text-left line-clamp-2">
+      {{ address }}
+    </div>
+  </div>
+</div>

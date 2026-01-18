@@ -1,1 +1,12 @@
 <app-header></app-header>
+<div class="container mx-auto px-2 py-4">
+  <div class="grid grid-cols-2 gap-3 md:grid-cols-3 lg:grid-cols-4 md:gap-6">
+    <app-card-shop 
+      *ngFor="let store of stores"
+      [imageSrc]="store.image"
+      [manager]="store.manager"
+      [address]="store.address"
+      [id]="store.id">
+    </app-card-shop>
+  </div>
+</div>

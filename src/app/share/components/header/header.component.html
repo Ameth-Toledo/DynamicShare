@@ -31,9 +31,9 @@
       *ngIf="isMenuOpen"
       class="md:hidden">
       <div class="py-4 space-y-3 border-t border-[#4ADE80]">
-        <a href="" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Home</a>
-        <a href="" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Tiendas</a>
-        <a href="" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Acerca de</a>
+        <a (click)="sendToHome($event)" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Home</a>
+        <a (click)="sendToShops($event)" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Tiendas</a>
+        <a (click)="sendToAbout($event)" class="block text-white hover:text-[#DCFCE7] font-medium transition-colors duration-200 py-2">Acerca de</a>
       </div>
     </div>
   </div>
