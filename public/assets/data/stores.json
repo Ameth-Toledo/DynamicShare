@@ -1,0 +1,78 @@
+{
+    "stores": [
+        {
+            "id": 1,
+            "manager": "Zita Edith",
+            "address": "Xiconténcatl num 16A, Colonia centro.. Xalapa Veracruz",
+            "image": "assets/",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.0242971635837!2d-96.92897923037414!3d19.53744059886028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2e0428bd54dd%3A0x9644180652a1e851!2sXicot%C3%A9ncatl%2018%2C%20Zona%20Centro%2C%20Centro%2C%2091000%20Xalapa-Enr%C3%ADquez%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1768170859524!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/fJGz44bRksYgAhFC7" 
+        },  
+        {
+            "id": 2,
+            "manager": "Flor Tapia",
+            "address": "Margarita 37 local E Rosa y Lirio y 531114 Tizayuca Hidalgo",
+            "image": "assets/",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30026.058936215217!2d-99.01982582568358!3d19.829060299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d191fa108d15cf%3A0x6ce6d27a5c375651!2sDYNAMIC%20SHARE!5e0!3m2!1ses-419!2smx!4v1768171188799!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/33rJAZpQhxV9vPgf9"
+        },
+        {
+            "id": 3,
+            "manager": "Leticia Hernández",
+            "address": "Calle golfo #29 Colonia Atlanta 1er. Seccion Estado de Mexico",
+            "image": "assets/",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.570606138894!2d-99.21498762402172!3d19.64564708167977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d21e409953624b%3A0xdd3b6f303646d571!2sC.%20Golfo%2029%2C%20Atlanta%2C%2054740%20Cuautitl%C3%A1n%20Izcalli%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1768171488520!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/fdmAXdwfzL2yrhzeA"
+        },
+        {
+            "id": 4,
+            "manager": "Domingo",
+            "address": "Avenidad Carretera Federal Alpuyeca, Colonia El florido Alpuyeca, Mazatepec, Morelos, Mexico (100 metros antes de Estafeta)",
+            "image": "assets/",
+            "googleMapsUrl": "",
+            "shareUrl": ""
+        },
+        {
+            "id": 5,
+            "manager": "Miri Cova",
+            "address": "Torre de Alba Mz 181 C, Lote2, Colonia Santa María de Guadalupe la torres 1ra. Seccion C.P 54743, Cuatlitán Izcalli, Estado de Mexico",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        },
+        {
+            "id": 6,
+            "manager": "Verónica Pérez",
+            "address": "Calle Sur, La Paz Singilucán, Los Altos, Estado de Hidalgo",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        },
+        {
+            "id": 7,
+            "manager": "Javier Zavaleta Rivera",
+            "address": "Calle Colon No. 33 Colonia centro C.P. 91500 Coatepec Veracruz",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        },
+        {
+            "id": 8,
+            "manager": "Manuel Camor",
+            "address": "Centro comercial Santa Ursula Texcoco Local A-5. Ubicado en: Calle Emiliano Zapata. No. 1, Colonia Santa Ursula. Texcoco Estado de Mexico C.P. 56150",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        },
+        {
+            "id": 9,
+            "manager": "Angel Gamaliel Ávalos Santamaria",
+            "address": "Mar De Las Lluvias, Av Estanislao Ramírez Ruiz, Selene 1ra Seccion, Tláhuac, C.P 13420 Ciudad de Mexico L.19 MZ.8",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        },
+        {
+            "id": 10,
+            "manager": "Ana Lilia Ruiz",
+            "address": "Prolongación Av. De la Flor, Esquina Calle 2 Auris 2 Chicoloapan de Juarez, C.P. 56376",
+            "image": "assets/",
+            "googleMapsUrl": ""
+        }
+    ]
+}
