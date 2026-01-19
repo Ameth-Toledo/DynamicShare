@@ -14,217 +14,279 @@
             "manager": "Leticia Hernández",
             "address": "Calle Golfo # 29, Colonia Atlanta 1er. Sección, Estado de Mexico",
             "phone": "5619699741",
-            "image": "assets/images/image15.png"
+            "image": "assets/images/image15.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3757.570606138894!2d-99.21498762402172!3d19.64564708167977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d21e409953624b%3A0xdd3b6f303646d571!2sC.%20Golfo%2029%2C%20Atlanta%2C%2054740%20Cuautitl%C3%A1n%20Izcalli%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1768171488520!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/fdmAXdwfzL2yrhzeA"
         },
         {
             "id": 3,
             "manager": "Angel Gamaliel Ávalos Santamaría",
             "address": "Mar De Las Lluvias, Av Estanislao Ramírez Ruiz, Selene 1ra Secc, Tláhuac, C.P 13420 Ciudad de México L19 MZ8",
             "phone": "7353974289",
-            "image": "assets/images/image14.png"
+            "image": "assets/images/image14.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3765.819307252868!2d-99.00545892402913!3d19.29022248195884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce1d00056d07d3%3A0x1b9381d99ab434fd!2sMar%20de%20lluvias!5e0!3m2!1ses-419!2smx!4v1768788237205!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/uVh1YYtsqcebpPA58"
         },
         {
             "id": 4,
             "manager": "Jessica Mancilla Martinez",
             "address": "Manuel Alemán #3, Colonia La Conchita, Zapotitlán Tláhuac, C.P 13360",
             "phone": "5620103512",
-            "image": "assets/images/image17.png"
+            "image": "assets/images/image17.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3765.9300527985533!2d-99.03416682402921!3d19.28540778196278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce0322c0000001%3A0x9eb66bf3b35f7183!2sManuel%20Aleman%20La%20Conchita%20Tl%C3%A1huac!5e0!3m2!1ses-419!2smx!4v1768790295324!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/Mu1gduYcLDsUWsM99"
         },
         {
             "id": 5,
             "manager": "Yolis",
             "address": "Calle Amatista 34C, Fraccionamiento Bugambilias. Junto al Fasti, en la parte superior de la Farmacia Similares",
             "phone": "2282320921",
-            "image": "assets/images/image16.png"
+            "image": "assets/images/image16.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3761.0769758884653!2d-96.85295992402483!3d19.495323781797474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db339bce6555b5%3A0x31d6ed5c461388eb!2sAmatista%2034%2C%2091637%20Jacarandas%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1768790564913!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/5w8EBgm7w9bQEN2w9"
         },
         {
             "id": 6,
             "manager": "Héctor Sandria",
             "address": "Polo Norte 3062 Rincones de Salvarcar, Ciudad Juárez Chihuahua, C.P. 32575",
             "phone": "6563877881",
-            "image": "assets/images/image19.png"
+            "image": "assets/images/image19.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d849.585068561851!2d-106.39303020080261!3d31.5971346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86e76700443d839d%3A0x7167e1a134045ba3!2sDynamicShare!5e0!3m2!1ses-419!2smx!4v1768790922452!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/nHkhvxhQHpMgJKKw7"
         },
         {
             "id": 7,
             "manager": "Manuel Camor",
             "address": "Centro comercial Santa Úrsula Texcoco Local A5, Calle Emiliano Zapata Número 1 Colonia Santa Úrsula Texcoco Estado de México",
             "phone": "5521419553",
-            "image": "assets/images/image18.png"
+            "image": "assets/images/image18.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60187.94044429035!2d-98.93731984574012!3d19.466503045775447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e75b6d69207d%3A0xe4479c61eb9dc77c!2sPlaza%20Texcoco!5e0!3m2!1ses-419!2smx!4v1768791149328!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/RgwdvgWAf9Z73qgF9"
         },
         {
             "id": 8,
             "manager": "Leyber Daniel Vargas Díaz",
             "address": "San Lucas, Chiapas",
             "phone": "529671375601",
-            "image": "assets/images/image21.png"
+            "image": "assets/images/image21.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7646.536263580098!2d-92.72708807593555!3d16.61330697309449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ed49ca102ade41%3A0x89a607133c1c6bad!2sErmita%20de%20la%20Santa%20Cruz!5e0!3m2!1ses-419!2smx!4v1768791868208!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/3HHgiG9JjYq5nVF26"
         },
         {
             "id": 9,
             "manager": "Verónica Pérez",
             "address": "Calle Sur, La Paz Singilucán, Los Altos, Estado de Hidalgo",
             "phone": "7751691024",
-            "image": "assets/images/image20.png"
+            "image": "assets/images/image20.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3539.7207873915063!2d-98.52107115278329!3d19.962401069278798!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ad1262adc953%3A0xa43a6ff32a32bef4!2sLa%20Paz%2C%2043780%20Singuilucan%2C%20Hgo.!5e0!3m2!1ses-419!2smx!4v1768793158494!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/1MbgY44n5XkwyDhP6"
         },
         {
             "id": 10,
             "manager": "Meny",
             "address": "Coahuila Torreón local 22, Av. Escuadrón 201",
             "phone": "8712267727",
-            "image": "assets/images/image24.png"
+            "image": "assets/images/image24.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57598.18954864988!2d-103.53256345136717!3d25.542145800000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x868fdb34fb694bd7%3A0xa2ea5a4fcaa90837!2sImpresiona%20Oficial!5e0!3m2!1ses-419!2smx!4v1768795109401!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/EmLu34X6ehenr4959"
         },
         {
             "id": 11,
             "manager": "Javier",
             "address": "Calle Colón 33, Coatepec, Veracruz",
             "phone": "2281062882",
-            "image": "assets/images/image22.png"
+            "image": "assets/images/image22.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2287.710400753033!2d-96.95749683769368!3d19.45535420235138!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2d23bb806bab%3A0x1e14d66cd591f9ab!2sCol%C3%B3n%2033%2C%20Centro%2C%2091500%20Coatepec%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1768795293533!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/cHb3wHiDyLWJFFB3A"
         },
         {
             "id": 12,
             "manager": "Raúl Antonio Ortiz Hernández",
             "address": "Aquiles Serdán 557 Colonia Miguel Alemán, Culiacán, Sinaloa",
             "phone": "6673021500",
-            "image": "assets/images/image23.png"
+            "image": "assets/images/image23.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1223.7981327556438!2d-107.38812985542566!3d24.799766526816825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86bcd1002450c2bf%3A0x24b2cc0984b82b7c!2sDS%2020%20SALA%20DE%20RECEPCION!5e0!3m2!1ses-419!2smx!4v1768795397441!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/dfMv7SbaFYkFWfzL9"
         },
         {
             "id": 13,
             "manager": "Sindy",
             "address": "Calle Emiliano Zapata número 58, enfrente del restaurante la Bamba Mariscos en Ciudad José Cardel",
             "phone": "2293300092",
-            "image": "assets/images/image25.png"
+            "image": "assets/images/image25.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d235.24906001386884!2d-96.37059037807037!3d19.369803884778587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sCalle%20Emiliano%20Zapata%20n%C3%BAmero%2058%2C%20enfrente%20del%20restaurante%20la%20Bamba%20Mariscos%20en%20Ciudad%20Jos%C3%A9%20Cardel!5e0!3m2!1ses-419!2smx!4v1768797134662!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/Fw9mLPtGZgMwDSdD8"
         },
         {
             "id": 14,
             "manager": "Martín",
             "address": "Av. Rodolfo Gaza Cantú # 598, Local E, Colonia Luis Donaldo Colosio Murrieta, Reynosa, Tamaulipas, C.P. 88793",
             "phone": "8995238828",
-            "image": "assets/images/image26.png"
+            "image": "assets/images/image26.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3584.1509722775004!2d-98.299145!3d26.061322!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjbCsDAzJzQwLjgiTiA5OMKwMTcnNTYuOSJX!5e0!3m2!1ses-419!2smx!4v1768797726620!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/8oYMXjerLcnPNkrC7"
         },
         {
             "id": 15,
             "manager": "Flor",
             "address": "Calle Rosa esquina Margarita, 37 E Colonia Nuevo Tizayuca, Tizayuca Hidalgo",
             "phone": "5632720282",
-            "image": "assets/images/image27.png"
+            "image": "assets/images/image27.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30026.058936215217!2d-99.01982582568358!3d19.829060299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d191fa108d15cf%3A0x6ce6d27a5c375651!2sDYNAMIC%20SHARE!5e0!3m2!1ses-419!2smx!4v1768171188799!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/33rJAZpQhxV9vPgf9"
         },
         {
             "id": 16,
             "manager": "Jesús",
             "address": "Bulevard Euquerio Guerrero esquina con calle Tulipán No. Ext. 4 Mz 08 Arroyo Verde, Guanajuato, Guanajuato",
             "phone": "524731814468",
-            "image": "assets/images/image28.png"
+            "image": "assets/images/image28.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3725.1145964011293!2d-101.28462499999999!3d20.988042999999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDU5JzE3LjAiTiAxMDHCsDE3JzA0LjciVw!5e0!3m2!1ses-419!2smx!4v1768798042230!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/vAMGXZXSV3Lt1sz1A"
         },
         {
             "id": 17,
             "manager": "Verónica",
             "address": "C. 44 Nte, Diez de Mayo, 72330 Heroica Puebla de Zaragoza, Pue. (Junto a la zona de juegos)",
             "phone": "2225043221",
-            "image": "assets/images/image29.png"
+            "image": "assets/images/image29.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.380025243253!2d-98.1675117240341!3d19.047021982151644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc04c19586d4d%3A0xdc362857718c34a9!2sC.%2044%20Nte.%2C%20Heroica%20Puebla%20de%20Zaragoza%2C%20Pue.!5e0!3m2!1ses-419!2smx!4v1768798103816!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/QMomarCGnx7xeFK89"
         },
         {
             "id": 18,
             "manager": "Lilia",
             "address": "Av. de los Atletas (o Venustiano Carranza) #155, Col. Felipe Carrillo Puerto",
             "phone": "2281106108",
-            "image": "assets/images/image30.png"
+            "image": "assets/images/image30.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1883.3854149090696!2d-103.66083490149768!3d19.248816933889657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x84255a0cbb932439%3A0xe99c8d8772541387!2s28557%20Col.%20Felipe%20Carrillo%20Puerto%2C%20Col.!5e0!3m2!1ses-419!2smx!4v1768798231961!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/SmGjGLLxwDfhwvjQ9"
         },
         {
             "id": 19,
             "manager": "Claudia",
             "address": "Avenida General González Montecillo, Texcoco Montecillos, Estado de México, C.P. 56264",
             "phone": "5649984869",
-            "image": "assets/images/image31.png"
+            "image": "assets/images/image31.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.0315201653116!2d-98.90808202402572!3d19.454207781829794!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e6b7a977fe25%3A0x5e854ba82bc90b35!2sAv.%20Gral.%20Gonz%C3%A1lez%20Montecillo%2C%20Estado%20de%20M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1768798324238!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/XcqR78Ktw38dhdEU6"
         },
         {
             "id": 20,
             "manager": "Octavio Nájera",
             "address": "Av. Orión Sur No. 709, Colonia Fracc. Villa Floresta, San Andrés Cholula Puebla, Plaza Street Mall, C.P. 72825",
             "phone": "2225605511",
-            "image": "assets/images/image32.png"
+            "image": "assets/images/image32.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60344.623367609456!2d-98.31391899803592!3d19.040026932054193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cfc760a3dd0a2f%3A0x90d8ae0a4335702!2sPlaza%20Orion!5e0!3m2!1ses-419!2smx!4v1768798468218!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/ELJEQDGvL1omwirSA"
         },
         {
             "id": 21,
             "manager": "Ana",
             "address": "Prolongación de la Flor esquina con calle 2 Colonia Auris 2 Chicoloapan México",
             "phone": "5524905733",
-            "image": "assets/images/image2.png"
+            "image": "assets/images/image2.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4019.632813922566!2d-98.9111415760632!3d19.406482767409358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1e171f04aadcb%3A0x68b115bcc3805d5d!2sAuris%202%2C%20Chicoloapan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1768798608072!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/a3BvGLiTbvJZBXbo9"
         },
         {
             "id": 22,
             "manager": "Rous",
             "address": "Transmisiones militares #35 piso 2, Fraccionamiento residencial lomas de Sotelo cp 53390, Naucalpan de Juárez Estado de México",
             "phone": "5545499850",
-            "image": "assets/images/image4.png"
+            "image": "assets/images/image4.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d940.4938181722225!2d-99.21767383037428!3d19.45663289886422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2024130978d07%3A0x302c2c387e4f0a2c!2sCalz.%20Transmisiones%20Militares%2019%2C%20Parque%20Industrial%2C%2053370%20Naucalpan%20de%20Ju%C3%A1rez%2C%20M%C3%A9x.!5e0!3m2!1ses-419!2smx!4v1768798747035!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/LkEMhcpwRtKeeQJT9"
         },
         {
             "id": 23,
             "manager": "Ilse",
             "address": "Independencia 209, colonia centro, San Rafael, Veracruz",
             "phone": "2321148641",
-            "image": "assets/images/image5.png"
+            "image": "assets/images/image5.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1018.0382180001683!2d-96.8693104915342!3d20.193043904644163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db097e041641fd%3A0xd9b76a974566d266!2sH.%20AYUNTAMIENTO%20MUNICIPAL!5e0!3m2!1ses-419!2smx!4v1768799181157!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/sCfn33SoLB2wK5Hd9"
         },
         {
             "id": 24,
             "manager": "Miri Cova",
             "address": "Torre del Alba Mz 181 C Lote 2, Col. Santa María de Guadalupe las torres 1ra Sección, C.P. 54743, Cuautitlán Izcalli, Estado de México",
             "phone": "5554029844",
-            "image": "assets/images/image6.png"
+            "image": "assets/images/image6.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d5780.179381940646!2d-99.22242064604447!3d19.633511076543485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sTorre%20del%20Alba%20Mz%20181%20C%20Lote%202%2C%20Col.%20Santa%20Mar%C3%ADa%20de%20Guadalupe%20las%20torres%201ra%20Secci%C3%B3n%2C%20C.P.%2054743%2C%20Cuautitl%C3%A1n%20Izcalli%2C%20Estado%20de%20M%C3%A9xico!5e0!3m2!1ses-419!2smx!4v1768800127583!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/sjdSNxMnHbxYbdhYA"
         },
         {
             "id": 25,
             "manager": "Melita",
             "address": "Calle nogal 29 col las tijeras san Miguel Coatlinchan Texcoco Estado de México c.p. 56250",
             "phone": "5510956647",
-            "image": "assets/images/image7.png"
+            "image": "assets/images/image7.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7515.332791321032!2d-99.04170384518618!3d19.641555128286427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1f3002aab9ae9%3A0x136f9390f27eac29!2sNOGAL%20MZ13%20LT13!5e0!3m2!1ses-419!2smx!4v1768800642197!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/U1xhJN2cQBViAwXF7"
         },
         {
             "id": 26,
             "manager": "Guillermo Martínez Escamilla",
             "address": "Dr. J. G. Parres 57-30, Emiliano Zapata, 62744 Cuautla, Mor., México",
             "phone": "5510956647",
-            "image": "assets/images/image8.png"
+            "image": "assets/images/image8.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3776.5361392295795!2d-98.95094692403872!3d18.818814482333526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce6f1824a26261%3A0x36d48a59a997814b!2sDr.%20J.%20G.%20Parres%2057-30%2C%20Emiliano%20Zapata%2C%2062744%20Cuautla%2C%20Mor.!5e0!3m2!1ses-419!2smx!4v1768800813383!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/iTPAS5TmYeFL8hXa9"
         },
         {
             "id": 27,
             "manager": "Delia",
             "address": "Avenida alpuyeca grutas, colonia la campesina, miacatlan morelos, Cuernavaca, Morelos, C.P. 62600",
             "phone": "7772221409",
-            "image": "assets/images/image9.png"
+            "image": "assets/images/image9.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3779.4553445892375!2d-99.37728292404135!3d18.6884214824379!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdce219cee1aa3%3A0x614a675c0fab100d!2sAlpuyeca%20Grutas%2C%20Morelos!5e0!3m2!1ses-419!2smx!4v1768800933518!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/NFocybKatX9rK8EF8"
         },
         {
             "id": 28,
             "manager": "Javier Zavaleta Rivera",
             "address": "Mártires del 28 de Agosto No. 289",
             "phone": "2281062882",
-            "image": "assets/images/image10.png"
+            "image": "assets/images/image10.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.8892891942683!2d-96.94555662402378!3d19.546366081757565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85db2e6ccf9f3663%3A0x7dc4d7f1b850c049!2sM%C3%A1rtires%20del%2028%20de%20Agosto%20289%2C%20Los%20Pinos%2C%2091026%20Xalapa-Enr%C3%ADquez%2C%20Ver.!5e0!3m2!1ses-419!2smx!4v1768801015989!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/SBpojVjbPWkEw7aP6"
         },
         {
             "id": 29,
             "manager": "Carlos Fabricio Cortois Gómez",
             "address": "Av. Belisario Domínguez entre calle Morelos y calle Aldama, Chiapilla, Chiapas",
             "phone": "9921199034",
-            "image": "assets/images/image11.png"
+            "image": "assets/images/image11.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3824.0542993521044!2d-92.72020167408132!3d16.573774284181326!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sAv.%20Belisario%20Dom%C3%ADnguez%20entre%20calle%20Morelos%20y%20calle%20Aldama%2C%20Chiapilla%2C%20Chiapas!5e0!3m2!1ses-419!2smx!4v1768801267993!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/RPheyLoMsgfhzAtG8"
         },
         {
             "id": 30,
             "manager": "Domingo Flores",
             "address": "Carretera alpuyeca-grutas, colonia El Florido, mazatepec, Morelos (cerca de los pollos el florido a 50 mtr)",
             "phone": "7772141763",
-            "image": "assets/images/image12.png"
+            "image": "assets/images/image12.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4021.9023459704927!2d-99.37759676139906!3d18.688411703152422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85cdce219cee1aa3%3A0x614a675c0fab100d!2sAlpuyeca%20Grutas%2C%20Morelos!5e0!3m2!1ses-419!2smx!4v1768801344451!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/2m1y7mZ9Z5q6B5i26"
         },
         {
             "id": 31,
             "manager": "Cesar",
             "address": "Av. Benito Juárez n-51, Entre Francisco y madero y 16 de septiembre, San Miguel tocuila cp 56208, Texcoco de mora",
             "phone": "5584730610",
-            "image": "assets/images/image3.png"
+            "image": "assets/images/image3.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d15042.520355411642!2d-98.9032421365679!3d19.51454435851678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sAv.%20Benito%20Ju%C3%A1rez%20n-51%2C%20Entre%20Francisco%20y%20madero%20y%2016%20de%20septiembre%2C%20San%20Miguel%20tocuila%20cp%2056208%2C%20Texcoco%20de%20mora!5e0!3m2!1ses-419!2smx!4v1768801415055!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/HE3DxmNU4BkrhbbeA"
         },
         {
             "id": 32,
             "manager": "Susan",
             "address": "Camino Viejo, Col. Lomas del Potrero, Yautepec, Morelos (Cerca de la Paletería Michoacana a 50 mt)",
             "phone": "7353460409",
-            "image": "assets/images/image1.png"
+            "image": "assets/images/image1.png",
+            "googleMapsUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3775.0097434025556!2d-99.07599223904717!3d18.8866489292441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ce73c248f573c7%3A0x4c73ce8abbd6c65a!2sLomas%20del%20Potrero%2C%20Yautepec%20de%20Zaragoza%2C%20Mor.!5e0!3m2!1ses-419!2smx!4v1768801516869!5m2!1ses-419!2smx",
+            "shareUrl": "https://maps.app.goo.gl/imtrPWmATqdTfbMXA"
         }
     ]
 }

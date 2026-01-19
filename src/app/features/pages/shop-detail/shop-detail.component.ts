@@ -68,4 +68,14 @@ export class ShopDetailComponent implements OnInit {
       }
     }
   }
+
+  copyPhone(): void {
+    if (this.store?.phone) {
+      navigator.clipboard.writeText(this.store.phone).then(() => {
+        alert('Teléfono copiado al portapapeles');
+      }).catch(err => {
+        console.error('Error al copiar:', err);
+      });
+    }
+  }
 }
