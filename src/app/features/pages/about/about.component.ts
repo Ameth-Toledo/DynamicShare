@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { HeaderComponent } from "../../../share/components/header/header.component";
+import { FooterComponent } from "../../../share/components/footer/footer.component";
 
 @Component({
   selector: 'app-about',
   standalone: true,
-  imports: [HeaderComponent, CommonModule],
+  imports: [HeaderComponent, CommonModule, FooterComponent],
   templateUrl: './about.component.html',
   styleUrl: './about.component.css'
 })
