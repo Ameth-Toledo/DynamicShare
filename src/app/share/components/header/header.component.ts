@@ -34,6 +34,6 @@ export class HeaderComponent {
 
   sendToAbout(event: Event) {
     event.preventDefault();
-    this.router.navigate(['']);
+    this.router.navigate(['about']);
   }
 }
